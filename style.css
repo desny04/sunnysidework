@@ -293,3 +293,13 @@
 .jennie{
     text-align: center;
 }
+
+.gallery{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+
+.gallery img{
+    width: 100%;
+    display: block;
+}
