@@ -303,3 +303,32 @@
     width: 100%;
     display: block;
 }
+
+.footer{
+    background-color:hsl(168, 36%, 69%);
+}
+
+.footer-head{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 18px;
+    color: hsl(167, 40%, 24%);
+    font-family: "Barlow", sans-serif;
+}
+
+.footer-para{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 15px;
+    font-family: "Barlow", sans-serif;
+    gap: 40px;
+    color: hsl(167, 34%, 41%);
+}
+
+.footer-logo{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
