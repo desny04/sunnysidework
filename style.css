@@ -126,6 +126,7 @@ button:hover{
 }
 
 .transformlearn p{
+    display: inline;
     border-bottom: 3px solid hsl(51, 100%, 49%);
 }
 
@@ -150,6 +151,10 @@ button:hover{
     font-family: "Fraunces", serif;
     padding-top: 30px;
     color: hsl(212, 27%, 19%);
+}
+
+.standlearn p{
+    display: inline;
     border-bottom: 3px solid hsl(7, 99%, 70%);
 }
 
